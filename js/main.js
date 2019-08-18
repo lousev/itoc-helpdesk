@@ -7,6 +7,3 @@ for (let i = 0; i < navList.length; i++) {
     this.className += " active";
   });
 }
-
-// Initializing Swup
-const swup = new Swup();
